@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "ANIMAL-FACE",
+  "usingComponents": {
+    "kps-image-cutter": "/components/ksp-image-cutter/ksp-image-cutter",
+    "avatar": "/components/yq-avatar/yq-avatar"
+  }
+}

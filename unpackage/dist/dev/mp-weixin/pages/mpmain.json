@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "ANIMAL-FACE",
+  "usingComponents": {
+    "w-loading": "/components/w-loading/w-loading",
+    "kps-image-cutter": "/components/ksp-image-cutter/ksp-image-cutter",
+    "avatar": "/components/yq-avatar/yq-avatar"
+  }
+}

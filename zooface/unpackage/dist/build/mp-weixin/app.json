@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/index",
+    "pages/select",
+    "pages/main",
+    "pages/prot",
+    "pages/result",
+    "pages/mpmain"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "uniStatistics": {
+    "enable": false
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

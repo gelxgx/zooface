@@ -1,0 +1,62 @@
+
+.djright{
+		bottom: 20%!important;
+}
+page,
+page {
+	padding-top: 135rpx !important;
+	/* position: fixed; */
+}
+.img{
+	height: 455rpx;
+	width: 672rpx;
+	margin: 0 auto;
+}
+.info{
+	width: 658rpx;
+	height: 247rpx;
+	margin: 100rpx auto;
+	border: 2px solid #ccc;
+}
+.info image{
+	width: 54rpx;
+	height: 57rpx;
+	vertical-align: middle;
+}
+.again {
+	background: url('http://img.zooseefun.net/mpresult/againbtn.png') no-repeat;
+	background-size: 100% 100%;
+	width: 334rpx;
+	height: 122rpx;
+	margin-top: 10rpx;
+	text-align: center;
+	color: #ffffff;
+	line-height: 110rpx;
+	float: left;
+	font-size: 30rpx;
+	margin-left: 38rpx;
+}
+.again image{
+	width: 51rpx;
+	height: 39rpx;
+	vertical-align: middle;
+}
+.scan {
+	background: url('http://img.zooseefun.net/mpresult/btn.png') no-repeat;
+	background-size: 100% 100%;
+	width: 334rpx;
+	height: 122rpx;
+	margin-top: 10rpx;
+	text-align: center;
+	color: #ffffff;
+	line-height: 110rpx;
+	float: right;
+	font-size: 30rpx;
+	margin-right: 30rpx;
+}
+.scan image{
+	width: 43rpx;
+	height: 41rpx;
+	vertical-align: middle;
+}
+

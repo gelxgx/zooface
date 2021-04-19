@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "w-loading": "/components/w-loading/w-loading"
+  },
+  "component": true
+}

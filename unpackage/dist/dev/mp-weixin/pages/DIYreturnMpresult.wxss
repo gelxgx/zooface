@@ -1,0 +1,127 @@
+
+.money {
+	color: #ec8d5c;
+	float: left;
+	font-size: 60rpx;
+	margin-top: 20rpx;
+	margin-left: 50rpx;
+}
+.top {
+	margin-top: 20rpx;
+}
+.box{
+	height:100%;
+	width: 100%;
+	z-index: 9999999;
+	
+	position: absolute;
+	top:0;
+	left:0
+}
+.main image {
+	width: 100%;
+	height: 100%;
+}
+.main {
+	width: 752rpx;
+	height: 506rpx;
+	margin-top: 40rpx;
+	background-color: #d8d8d8;
+	position: relative;
+}
+.modify{
+	width : 95rpx !important;
+	height: 95rpx !important;
+	position :absolute;
+	right : 16rpx;
+	top: 240rpx;
+}
+.again {
+	width: 95rpx !important;
+	height: 95rpx !important;
+	position: absolute;
+	left: 0;
+	bottom: -10rpx;
+}
+.share {
+	background: url('http://img.zooseefun.net/mpresult/btn.png') no-repeat;
+	background-size: 100% 100%;
+	width: 334rpx;
+	height: 122rpx;
+	margin-top: 10rpx;
+	text-align: center;
+	color: #ffffff;
+	line-height: 122rpx;
+	float: right;
+	font-size: 30rpx;
+	margin-right: 30rpx;
+}
+.share image {
+	width: 52rpx;
+	height: 48rpx;
+	vertical-align: middle;
+}
+.log {
+	background: url('http://img.zooseefun.net/mpresult/log.png') no-repeat;
+	background-size: 100% 100%;
+	width: 386rpx;
+	height: 166rpx;
+	color: #555555;
+	float: left;
+}
+.go {
+	background: url('http://img.zooseefun.net/mpresult/go.png') no-repeat;
+	background-size: 100% 100%;
+	width: 155rpx;
+	height: 155rpx;
+	border: none !important;
+	float: left;
+}
+.go:after {
+	border: none !important;
+}
+.te {
+	font-size: 20rpx;
+	height: 91rpx;
+	width: 255rpx;
+	margin-left: 74rpx;
+	margin-top: 32rpx;
+	color: #ffffff;
+}
+.share:after {
+	border: none !important;
+}
+page,
+page {
+	padding-top: 130rpx !important;
+	position: fixed;
+}
+.img {
+	width: 178rpx;
+	height: 120rpx;
+	margin-left: 50rpx;
+}
+.canvas {
+	width: 1795px;
+	height: 1205px;
+	position: absolute;
+	top: -9999999px;
+}
+.imgbtn {
+	border: 10rpx solid #007aff;
+}
+.DIY{
+	width: 95rpx !important;
+	height: 95rpx !important;
+	position: absolute;
+	top: 349rpx;
+	left: 642rpx;
+}
+.more{
+	width: 95rpx !important;
+	height: 95rpx !important;
+	position: absolute;
+	top: 20rpx;
+	left: 642rpx;
+}
+

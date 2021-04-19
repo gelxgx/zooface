@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "ANIMAL-FACE",
+  "usingComponents": {
+    "avatar": "/components/yq-avatar/yq-avatar"
+  }
+}

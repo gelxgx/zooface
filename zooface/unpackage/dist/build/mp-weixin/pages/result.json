@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "ANIMAL-FACE",
+  "usingComponents": {
+    "s-switch": "/components/s-switch/s-switch",
+    "sswitch": "/components/s-switch/s-switch"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "s-switch-mini": "/components/s-switch-mini/s-switch-mini",
+    "sswitchmini": "/components/s-switch-mini/s-switch-mini"
+  }
+}

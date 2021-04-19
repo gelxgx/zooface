@@ -1,0 +1,136 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index",
+			"style": {
+				// #ifdef MP-WEIXIN
+				"navigationBarTitleText": "ANIMAL-FACE"
+				// #endif
+			}
+		},
+		{
+			"path": "pages/select",
+			"style": {
+				// #ifdef MP-WEIXIN
+				"navigationBarTitleText": "ANIMAL-FACE"
+				// #endif
+			}
+		},
+		{
+			"path": "pages/main",
+			"style": {
+				// #ifdef MP-WEIXIN
+				"navigationBarTitleText": "ANIMAL-FACE"
+				// #endif
+			}
+		},
+		{
+			"path": "pages/prot",
+			"style": {
+				// #ifdef MP-WEIXIN
+				"navigationBarTitleText": "ANIMAL-FACE"
+				// #endif
+			}
+		},
+		{
+			"path": "pages/result",
+			"style": {
+				// #ifdef MP-WEIXIN
+				"navigationBarTitleText": "ANIMAL-FACE"
+				// #endif
+			}
+		},
+		{
+			"path": "pages/mpmain",
+			"style": {
+				// #ifdef MP-WEIXIN
+				"navigationBarTitleText": "ANIMAL-FACE"
+				// #endif
+			}
+		},
+		{
+			"path": "pages/mpresult",
+			"style": {
+				// #ifdef MP-WEIXIN
+				"navigationBarTitleText": "ANIMAL-FACE"
+				// #endif
+			}
+		},
+		{
+			"path": "pages/pk",
+			"style": {
+				// #ifdef MP-WEIXIN
+				"navigationBarTitleText": "ANIMAL-FACE"
+				// #endif
+			}
+		},
+		{
+			"path": "pages/print",
+			"style": {
+				// #ifdef MP-WEIXIN
+				"navigationBarTitleText": "ANIMAL-FACE"
+				// #endif
+			}
+		},
+		{
+			"path": "pages/order",
+			"style": {
+				// #ifdef MP-WEIXIN
+				"navigationBarTitleText": "ANIMAL-FACE"
+				// #endif
+			}
+		},
+		{
+			"path": "pages/pay",
+			"style": {
+				// #ifdef MP-WEIXIN
+				"navigationBarTitleText": "ANIMAL-FACE"
+				// #endif
+			}
+		},
+		{
+			"path": "pages/signiture",
+			"style": {
+				// #ifdef MP-WEIXIN
+				"navigationBarTitleText": "ANIMAL-FACE"
+				// #endif
+			}
+		}
+		
+	],
+	"globalStyle": {
+		"navigationStyle": "custom",
+		"app-plus": {
+			"titleNView": false
+		},
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "zooface",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"condition" : { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [
+			{
+				"name":"select",
+				"path":"pages/select",
+				"query":""
+			},
+			{
+				"name": "", //模式名称
+				"path": "pages/index", //启动页面，必选
+				"query": "" //启动参数，在页面的onLoad函数里面得到
+			},
+			{
+				"name":"result",
+				"path":"pages/mpresult",
+				"query":""
+			},
+			{
+				"name":"canvas",
+				"path":"pages/htmltocanvas",
+				"query":""
+			}
+		]
+	}
+}

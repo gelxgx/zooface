@@ -1,0 +1,106 @@
+{
+	"description": "项目配置文件。",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"enhance": false,
+		"postcss": false,
+		"preloadBackgroundData": false,
+		"minified": true,
+		"newFeature": false,
+		"coverView": true,
+		"nodeModules": false,
+		"autoAudits": false,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false,
+		"uglifyFileName": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"compileHotReLoad": false,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		},
+		"useIsolateContext": true,
+		"useCompilerModule": false,
+		"userConfirmedUseCompilerModuleSwitch": false
+	},
+	"compileType": "miniprogram",
+	"libVersion": "",
+	"appid": "wxad195970c1f6f4ed",
+	"projectname": "zooface",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"name": "DIYresult",
+					"query": "",
+					"id": 0,
+					"pathName": "pages/mpresult"
+				},
+				{
+					"name": "select",
+					"query": "",
+					"id": 1,
+					"pathName": "pages/select"
+				},
+				{
+					"name": "DIYreturnMpresult",
+					"query": "",
+					"id": 2,
+					"pathName": "pages/order"
+				},
+				{
+					"name": "DIYreturnMpresult",
+					"query": "",
+					"id": 3,
+					"pathName": "pages/DIYreturnMpresult"
+				},
+				{
+					"name": "DIYresult",
+					"query": "",
+					"id": 4,
+					"pathName": "pages/DIYresult"
+				},
+				{
+					"name": "",
+					"query": "",
+					"id": 5,
+					"pathName": "pages/index"
+				},
+				{
+					"name": "result",
+					"query": "",
+					"id": 6,
+					"pathName": "pages/mpresult"
+				},
+				{
+					"name": "canvas",
+					"query": "",
+					"id": 7,
+					"pathName": "pages/htmltocanvas"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "ANIMAL-FACE",
+  "usingComponents": {
+    "van-tab": "/wxcomponents/vant/dist/tab/index",
+    "van-tabs": "/wxcomponents/vant/dist/tabs/index",
+    "van-grid": "/wxcomponents/vant/dist/grid/index",
+    "van-grid-item": "/wxcomponents/vant/dist/grid-item/index",
+    "canvas-drag": "/components/canvas-drag/index"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "ANIMAL-FACE",
+  "usingComponents": {
+    "cat-signature": "/components/cat-signature/cat-signature"
+  }
+}

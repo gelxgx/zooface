@@ -1,0 +1,61 @@
+
+page,
+page {
+	position: fixed;
+	height: 100%;
+}
+page{
+	height: 100%;
+}
+.bg{
+	background: url("http://img.zooseefun.net/pk/bg.png") no-repeat;
+	background-size: 100% 100%;
+	height: 100%;
+}
+.pk{
+	width: 397rpx;
+	height: 283rpx;
+	margin-top: 75%;
+	margin-left: 40rpx;
+}
+.animal{
+	margin-top: 30rpx;
+	margin-left: 62rpx;
+	margin-bottom: 20rpx;
+}
+.ani-pic{
+	width: 160rpx;
+	height: 160rpx;
+	float: left;
+}
+.ani-text{
+	background: url('http://img.zooseefun.net/pk/log.png') no-repeat;
+	background-size: 100% 100%;
+	width: 475rpx;
+	height: 165rpx;
+	float: left;
+	color: #F8F8F8;
+	font-size: 20rpx;
+}
+.te{
+	width: 360rpx;
+	height: 91rpx;
+	margin-top: 30rpx;
+	margin-left: 75rpx;
+}
+.pk-btn{
+	margin-top: 40rpx;
+	margin-left: auto;
+	margin-right: auto;
+	background: url('http://img.zooseefun.net/pk/btn.png') no-repeat;
+	background-size: 100% 100%;
+	width: 538rpx;
+	height: 126rpx;
+	line-height: 126rpx;
+	color: #FFFFFF;
+	font-size: 30rpx;
+}
+.pk-btn:after{
+	border: none!important;
+}
+

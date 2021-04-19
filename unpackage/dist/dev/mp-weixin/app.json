@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index",
+    "pages/select",
+    "pages/main",
+    "pages/prot",
+    "pages/result",
+    "pages/mpmain",
+    "pages/mpresult",
+    "pages/pk",
+    "pages/print",
+    "pages/order",
+    "pages/pay",
+    "pages/signiture",
+    "pages/DIYresult",
+    "pages/DIYreturnMpresult"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "zooface",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "uniStatistics": {
+    "enable": false
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取用户位置返回不同动物列表"
+    }
+  },
+  "usingComponents": {
+    "w-loading": "/components/w-loading/w-loading"
+  },
+  "sitemapLocation": "sitemap65.json"
+}

@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "s-switch": "/components/s-switch/s-switch",
+    "cat-signature": "/components/cat-signature/cat-signature",
+    "sswitch": "/components/s-switch/s-switch",
+    "catsignature": "/components/cat-signature/cat-signature",
+    "uni-transition": "/components/uni-transition/uni-transition"
+  }
+}
